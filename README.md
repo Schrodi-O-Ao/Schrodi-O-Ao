@@ -1,44 +1,17 @@
-# Hello, I'm Ao, a Software Engineering graduate.
+# Hello, I'm Ao.
 
-I'm currently spending most of my time learning backend development with Python, but I'm interested in quite a few other things too.
+I'm a Software Engineering graduate. These days, I spend a lot of time messing around with Python and backend development, though I tend to get interested in just about anything that catches my attention.
 
-I like making things, figuring out how they work, and occasionally getting carried away exploring concepts that weren't strictly necessary for a project.
+Most of my work has been in Python, but I've also spent time with C++, JavaScript, TypeScript and a few other things.
 
-## What I'm working with
+You can find them around here if you're curious:
 
-**Mostly:** Python, FastAPI, PostgreSQL, SQLAlchemy, Pydantic, Docker and Git.
+- [AgeiusVault](https://github.com/Schrodi-O-Ao/AgeiusVault) ([live version](https://6af7c1f609fe4e83a7360ecb--ageiusvault-frontend.netlify.app/))
+- [Parallel Image Distance and KNN](https://github.com/Schrodi-O-Ao/Parallel-Image-Distance-and-KNN-Classification)
+- [TrafficLearner](https://github.com/Schrodi-O-Ao/TrafficLearner) ([live version](https://schrodi-o-ao.github.io/TrafficLearner/))
 
-**Also some familiarity with:** C++20, TypeScript, JavaScript, React, Next.js and OpenCV.
+For now, I'm mostly learning.
 
-Currently brushing up on algorithms, data structures and system design.
-
-## Some things I've built
-
-### AgeiusVault
-A request and approval management system. One of the more involved projects I've worked on, particularly on the security side.
-
-It includes TOTP authentication, browser-side encryption using AES-GCM and RSA-OAEP, delegated approvals, and hash-linked audit records.
-
-[Repository](https://github.com/Schrodi-O-Ao/AgeiusVault)
-
-[Hosted here](https://6af7c1f609fe4e83a7360ecb--ageiusvault-frontend.netlify.app/)
-
-### Multithreaded C++ Library
-An experiment with parallel computing, image comparisons and K-nearest-neighbors classification using CIFAR-10.
-
-Includes a thread pool, parallel reduction, barriers and benchmarking different thread configurations.
-
-[Repository](https://github.com/Schrodi-O-Ao/Parallel-Image-Distance-and-KNN-Classification)
-
-### Traffic Simulation
-A traffic intersection simulator where I experimented with Q-learning and compared it against more conventional traffic-light controllers.
-
-[Repository](https://github.com/Schrodi-O-Ao/TrafficLearner)
-
-[Hosted here](https://schrodi-o-ao.github.io/TrafficLearner/)
-
-## Things I'd like to explore in the future
-
-Game development, operating systems, systems programming, networking, and pretty much anything that gives me an excuse to understand something new.
+I'm still figuring out what I want to spend more time on. Game development, operating systems, systems programming and networking are all things I'd like to get around to eventually. I have a feeling I'll keep finding new things to get distracted by before then.
 
 I'm particularly interested in building games and small tools of my own eventually.
